@@ -4,3 +4,6 @@ python-pptx
 PyMuPDF
 google-generativeai
 dotenv
+streamlit-agraph
+graphviz
+pyvis
